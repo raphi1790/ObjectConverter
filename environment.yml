@@ -1,0 +1,4 @@
+name: object-converter
+dependencies:
+- python=3
+- numpy
