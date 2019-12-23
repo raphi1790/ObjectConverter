@@ -8,3 +8,6 @@ data/schueler.csv
 data/schulklassen.csv
 data/schulzimmer.csv
 data/tische.csv
+
+sample.txt
+users.json

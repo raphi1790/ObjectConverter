@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\rapha\\Anaconda3\\envs\\object-converter\\python.exe"
+    "python.pythonPath": "C:\\Users\\rapha\\Anaconda3\\envs\\object-converter\\python.exe",
+    "python.terminal.activateEnvironment": false
 }
